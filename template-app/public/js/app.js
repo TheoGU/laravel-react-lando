@@ -65956,7 +65956,7 @@ var Example = /*#__PURE__*/function (_Component) {
   _createClass(Example, [{
     key: "render",
     value: function render() {
-      return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Laravel And react Done"));
+      return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Laravel Addnddssss react Donesssslfm;krofkoprfkokokddddghjklm\xF9mlkjhghjklm"));
     }
   }]);
 
@@ -65986,8 +65986,8 @@ react_dom__WEBPACK_IMPORTED_MODULE_1___default.a.render( /*#__PURE__*/react__WEB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/theogu/Desktop/myapp/blog/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /Users/theogu/Desktop/myapp/blog/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /Users/theogu/Desktop/laravel-react-lando/template-app/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /Users/theogu/Desktop/laravel-react-lando/template-app/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
