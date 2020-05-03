@@ -65956,7 +65956,7 @@ var Example = /*#__PURE__*/function (_Component) {
   _createClass(Example, [{
     key: "render",
     value: function render() {
-      return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Laravel Addnddssss react Donesssslfm;krofkoprfkokokddddghjklm\xF9mlkjhghjklm"));
+      return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Laravel And react Done"));
     }
   }]);
 

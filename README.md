@@ -4,20 +4,24 @@
 
 ## Install
 
-- Clone repo && cd
+- Clone repo
 > **cmd:**  git clone https://github.com/TheoGU/laravel-react-lando.git
+
+- cd
 > **cmd:**  cd laravel-react-lando/template-app
 
 - Install packages
 >**cmd:** composer install
+
 >**cmd:** npm install
 
 
 - Start
 >**cmd:** lando start
+
 >**cmd:** npm run dev
 
-or
+- Auto compile 
 
 >**cmd:** npm run watch
 
