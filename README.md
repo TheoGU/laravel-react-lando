@@ -1,6 +1,6 @@
 # Laravel  - React - Lando
 
- This project is a template to start quickly a project In **Laravel**  + **React** + **Lando**
+ This project is a template to start quickly a project **Laravel**  + **React** + **Lando**
 
 ## Install
 
@@ -42,7 +42,7 @@ To add a new component
 		- ressources/js/app.js
 
 ### APP URL
-You can find your project on this urls 
+You can find your app on this urls 
      
       - http://app-laravel-react.lndo.site/                    
       - https://app-laravel-react.lndo.site/   
