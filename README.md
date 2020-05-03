@@ -1,6 +1,6 @@
 # Laravel  - React - Lando
 
- This project is a template to start quickly a project **Laravel**  + **React** + **Lando**
+ This app is a template to start quickly a project **Laravel**  + **React** + **Lando**
 
 ## Install
 
