@@ -1,0 +1,4 @@
+name: app-laravel-react
+recipe: laravel
+config:
+  webroot: public
