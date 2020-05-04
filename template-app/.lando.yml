@@ -1,4 +1,21 @@
 name: app-laravel-react
 recipe: laravel
 config:
+  php: '7.3.17'
   webroot: public
+  xdebug: false
+  via: apache:2.4
+  database: mariadb:10.3
+
+services:
+  pma:
+    type: phpmyadmin
+    overrides:
+      environment:
+        PMA_HOST: database
+  appserver:
+    type: php
+
+proxy:
+  pma:
+    - laravel-pma.lndo.site
