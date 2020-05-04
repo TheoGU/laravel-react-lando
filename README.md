@@ -1,6 +1,6 @@
 # Laravel  - React - Lando
 
- This app is a template to start quickly a project **Laravel**  + **React** + **Lando**
+ This app is a starter to start quickly a project **Laravel**  + **React** + **Lando**
 
 ## Install
 
@@ -46,3 +46,10 @@ You can find your app on this urls
      
       - http://app-laravel-react.lndo.site/                    
       - https://app-laravel-react.lndo.site/   
+
+
+
+## MYSQL
+Init Database
+
+>**cmd:** lando artisan migrate
