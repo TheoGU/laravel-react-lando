@@ -1,15 +1,14 @@
-import React, { Component } from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
 
-export default class Example extends Component {
-  render() {
+function Example() {
     return (
-      <div>
-        <p>Laravel And react Done</p>
-      </div>
+        <p>Example</p>
     );
-  }
 }
-  ReactDOM.render(<Example></Example>, document.getElementById('example'));
 
-  
+export default Example;
+
+if (document.getElementById('example')) {
+    ReactDOM.render(<Example />, document.getElementById('example'));
+}
