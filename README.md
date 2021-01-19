@@ -1,4 +1,4 @@
-# Laravel  - React - Lando
+# Laravel + React + Lando
 
  This app is a template to start quickly a project **Laravel**  + **React** + **Lando**
 
